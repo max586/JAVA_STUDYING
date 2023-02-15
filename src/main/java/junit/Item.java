@@ -1,4 +1,4 @@
-package lesson1;
+package junit;
 
 import java.util.concurrent.atomic.AtomicLong;
 

@@ -1,4 +1,4 @@
-package lesson1;
+package junit;
 
 public class Price {
     private int amount;
